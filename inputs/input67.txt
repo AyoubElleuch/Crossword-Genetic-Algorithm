@@ -1,0 +1,8 @@
+silk
+cotton
+stone
+falcon
+candle
+eagle
+cloud
+cherry

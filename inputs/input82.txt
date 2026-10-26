@@ -1,0 +1,6 @@
+yellow
+planet
+bicycle
+rain
+cloud
+glacier

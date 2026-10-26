@@ -1,0 +1,12 @@
+plane
+lemon
+sunset
+teacher
+node
+farmer
+brave
+student
+bridge
+happy
+window
+java

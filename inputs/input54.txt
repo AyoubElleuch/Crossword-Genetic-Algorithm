@@ -1,0 +1,11 @@
+forest
+parrot
+museum
+square
+server
+candle
+sugar
+neighbor
+writer
+quiet
+winter

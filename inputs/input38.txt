@@ -1,0 +1,13 @@
+engine
+eager
+ocean
+paper
+kind
+square
+airport
+cousin
+voyage
+clever
+north
+brave
+harmony

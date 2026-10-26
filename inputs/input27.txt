@@ -1,0 +1,9 @@
+sugar
+java
+harmony
+tomato
+rain
+corner
+yellow
+castle
+poem

@@ -1,0 +1,13 @@
+camera
+dancer
+binary
+glass
+linen
+canyon
+python
+market
+sailor
+dolphin
+chorus
+lion
+apple

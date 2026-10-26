@@ -1,0 +1,5 @@
+cloud
+lantern
+teacher
+actor
+flour

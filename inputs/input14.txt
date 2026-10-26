@@ -1,0 +1,5 @@
+eager
+bridge
+cherry
+stone
+square

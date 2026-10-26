@@ -1,0 +1,6 @@
+neighbor
+harmony
+dolphin
+tiger
+factor
+border

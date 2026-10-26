@@ -1,0 +1,9 @@
+inside
+vector
+airport
+pencil
+matrix
+nurse
+node
+linen
+soup

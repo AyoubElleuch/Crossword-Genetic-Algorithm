@@ -1,0 +1,12 @@
+painter
+socket
+harbor
+horse
+glacier
+student
+proud
+middle
+west
+harmony
+eagle
+pasta

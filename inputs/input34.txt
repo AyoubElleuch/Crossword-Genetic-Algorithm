@@ -1,0 +1,9 @@
+triangle
+novel
+west
+rhythm
+east
+coffee
+concert
+teacher
+train

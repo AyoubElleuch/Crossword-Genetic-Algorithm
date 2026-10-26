@@ -1,0 +1,15 @@
+butter
+ship
+coast
+packet
+candle
+velvet
+canyon
+flute
+actor
+wool
+desert
+station
+paper
+falcon
+triangle

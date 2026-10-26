@@ -1,0 +1,12 @@
+actor
+prime
+coast
+engine
+meadow
+rain
+sauce
+museum
+opera
+driver
+student
+glacier

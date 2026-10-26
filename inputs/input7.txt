@@ -1,0 +1,8 @@
+driver
+airport
+cycle
+ocean
+truck
+friend
+letter
+flute

@@ -1,0 +1,9 @@
+east
+writer
+melody
+drum
+plane
+stone
+wool
+salad
+cycle
